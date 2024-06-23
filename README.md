@@ -1,3 +1,6 @@
+annida khoirunnisa's commit
+
+
 # Tutorial Modelling Data Titanic
 
 Tutorial ini akan mengolah data titanic menjadi data yang siap untuk dilakukan pemodelan
