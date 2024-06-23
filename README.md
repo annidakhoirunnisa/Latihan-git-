@@ -1,3 +1,4 @@
+test annida
 # Tutorial Modelling Data Titanic
 
 Tutorial ini akan mengolah data titanic menjadi data yang siap untuk dilakukan pemodelan.
@@ -25,4 +26,3 @@ X_train.shape, y_train.shape
 
 1. Di scikit-learn documentation
 2. Test edit
-3. tes tes
